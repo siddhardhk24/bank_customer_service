@@ -1,4 +1,4 @@
-module github.com/siddardhk24/bank_customer_service
+module github.com/siddhardhk24/bank_customer_service
 
 go 1.18
 

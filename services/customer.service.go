@@ -5,8 +5,8 @@ import (
 
 	"time"
 
-	"github.com/siddardhk24/bank_customer_service/interfaces"
-	"github.com/siddardhk24/bank_customer_service/models"
+	"github.com/siddhardhk24/bank_customer_service/interfaces"
+	"github.com/siddhardhk24/bank_customer_service/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
